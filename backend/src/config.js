@@ -14,7 +14,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 4096,
+    growEditionSizeTo: 5,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
